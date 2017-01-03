@@ -776,8 +776,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.bastardcreative.nogger;
 				PRODUCT_NAME = nogger;
-				PROVISIONING_PROFILE = "e79efe9d-7171-4e98-b623-44ad3c3cc13b";
-				PROVISIONING_PROFILE_SPECIFIER = "nogger Dist";
+				PROVISIONING_PROFILE = "8c360979-fb8e-4fca-a754-1dcc4b07a651";
+				PROVISIONING_PROFILE_SPECIFIER = "nogger Dev Adhoc";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
